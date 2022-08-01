@@ -1,4 +1,4 @@
-# SealCleanUp
+## Seal Clean Up
 
 This code/ workflow has been created to check nutrient data generated from analysis using the AQ400 in the Reisinger lab at UF. Its primary functions include:
 1) Reformatting of sample names by splittig up the names used in analysis into their three main components - site name, rep, and collection date; 
